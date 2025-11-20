@@ -7,7 +7,7 @@ All work follows the required submission structure and was completed entirely in
 
 # 📁 Directory Structure
 
----
+```
 ds_Ganesh_Mali/
 │
 ├── notebook_1.ipynb        # Your main Google Colab notebook
@@ -31,7 +31,7 @@ ds_Ganesh_Mali/
 ├── ds_report.pdf           # Final summarized PDF report
 │
 └── README.md               # Instructions + notes for reviewer
----
+```
 
 # 🎯 Objective
 
@@ -51,7 +51,7 @@ The analysis uncovers:
 # ▶️ Google Colab Notebook
 
 Main Notebook:  
-🔗 **🔗 **[Insert Your Colab Link Here](https://colab.research.google.com/drive/1UBphPXSlMyZyPFm8fd6FnDscqehMSbyL?usp=sharing)****
+🔗 **[notebook_1](https://colab.research.google.com/drive/1UBphPXSlMyZyPFm8fd6FnDscqehMSbyL?usp=sharing)**
 
 
 # 🛠️ Setup Instructions
